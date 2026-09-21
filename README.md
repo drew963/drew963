@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drew963
 - 👀 I’m interested in Engineering
-- 🌱 I’m currently learning C++, HTML, CSS 
+- 🌱 I’m currently learning C++, Python 
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me Andrew.jensen963@gmail.com
 
